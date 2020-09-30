@@ -1,5 +1,12 @@
 # Aplicacion "El Chat"
 
+## Instrucciones
+
+### 1. Ejecutar "npm start" en la carpeta de "api"
+### 2. Instalar node modules en la carpeta de new_clien ejecutando "npm install"
+### 3. Ejecutar "ng serve" en la carpeta de "new_client"
+### 4. Disfrutar de la app
+
 ## Configuraciones principales:
 
 Cliente montado en: http://localhost:4200
